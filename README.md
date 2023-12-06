@@ -29,4 +29,4 @@ O projeto visa criar um relógio digital que apresente hora, minutos e segundos.
 
 ## 🔖 Layout
 
-Desenvolvido em sala de aula pelo aluno Diego Alves Ribeiro.
+Desenvolvido em sala de aula pelo aluno Diego Alves Ribeiro em conjunto com o docente Wallace Oliveira Dos Santos.
