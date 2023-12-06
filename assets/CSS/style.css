@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Orbitron', sans-serif;
+}
+
+body{
+    height: 100vh;
+    color: white;
+    background: rgb(2,0,36);
+    background: linear-gradient(120deg, rgba(2,0,36,1) 0%, rgba(153,16,190,1) 22%, rgba(161,18,212,1) 55%, rgba(221,8,235,1) 79%, rgba(235,0,255,1) 100%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+#styleData{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 350px;
+    height: 200px;
+    background: rgb(22,147,3);
+    background: linear-gradient(120deg, rgba(22,147,3,1) 0%, rgba(0,191,54,1) 28%, rgba(13,195,89,1) 59%, rgba(12,246,165,1) 85%, rgba(0,255,188,1) 100%);
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    border-radius: 100px;
+}
+
+#styleDataIntern{
+    height: 120px;
+    width: 290px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: rgb(2,0,36);
+    background: linear-gradient(120deg, rgba(2,0,36,1) 0%, rgba(93,93,93,1) 28%, rgba(161,161,161,1) 59%, rgba(161,162,162,1) 85%, rgba(203,203,203,1) 100%);
+    color: rgb(255, 233, 255);
+    box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset, rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset, rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+    letter-spacing: 3px;
+    border-radius: 100px;
+
+}
+
+#styleData span {
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+#styleData .nameData {
+    font-size: 25px;
+}
+
+
+#relogio{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 550px;
+    height: 200px;
+    background: rgb(22,147,3);
+    background: linear-gradient(120deg, rgba(22,147,3,1) 0%, rgba(0,191,54,1) 28%, rgba(13,195,89,1) 59%, rgba(12,246,165,1) 85%, rgba(0,255,188,1) 100%);
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    border-radius: 100px;
+}
+
+#relogio div {
+    height: 120px;
+    width: 120px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: rgb(2,0,36);
+    background: linear-gradient(120deg, rgba(2,0,36,1) 0%, rgba(93,93,93,1) 28%, rgba(161,161,161,1) 59%, rgba(161,162,162,1) 85%, rgba(203,203,203,1) 100%);
+    color: rgb(255, 233, 255);
+    box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset, rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset, rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+    letter-spacing: 3px;
+    border-radius: 100px;
+}
+
+#relogio span {
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+#relogio .tempo{
+    font-size: 15px;
+}
