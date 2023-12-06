@@ -1,14 +1,17 @@
 <h1 align="center"> Relógio Digital </h1>
 
 <p align="center">
-Projeto desenvolvido no treinamento programador fullstack, do programa Meu Primeiro Emprego. <br/>
+Projeto desenvolvido no treinamento programador fullstack (Realizado pelo SENAI), do programa Meu Primeiro Emprego. <br/>
 <a href="https://primeiroemprego.se.gov.br/">Mais informações sobre o programa Meu Primeiro Emprego.</a>
 </p>
 
 <br>
 
-<p align="center">
   <img alt="projeto DevLinks" src="./assets/img/captura de tala.png" width="100%">
+</p>
+
+<p align="center">
+  <a href="https://777diegoribeiro777.github.io/relogioDigital/" style="font-weight: bold;">💎 Link para o projeto.</a>
 </p>
 
 ## 🚀 Tecnologias
